@@ -1,3 +1,5 @@
+![image](https://github.com/stayadi07/Blogs-app/assets/98824627/0209075f-b49b-4db5-95ff-b7dc768cbc75)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
